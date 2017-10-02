@@ -1,0 +1,11 @@
+com\spring\bean\DataSourceJpa.class
+com\spring\Entity\Profesor.class
+com\spring\Entity\InformacionHasEstudiante.class
+com\spring\Entity\InformacionHasEstudiantePK.class
+com\spring\Entity\Grado.class
+com\spring\Entity\GradoHasEstudiante.class
+com\spring\dao\IPersonaDao.class
+com\spring\Entity\Informacion.class
+com\spring\Entity\Persona.class
+com\spring\Entity\Estudiante.class
+com\spring\Entity\GradoHasEstudiantePK.class
